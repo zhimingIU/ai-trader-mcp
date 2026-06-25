@@ -92,6 +92,24 @@ This server is designed using first-principles thinking from 6 foundational disc
 - **Linguistics**: MCP defines trading "grammar", context determines "pragmatics"
 - **Logic**: Every trade decision is a logical inference chain
 
+## Purchase / Support
+
+Support development and get access to priority support:
+
+| Product | Price | Includes |
+|---------|-------|----------|
+| **ai-trader-mcp** (single) | **$29** | MCP Server source + MT5 EA (compiled `.ex5`) + install guide |
+| **tradingview-to-mt5** (single) | **$29** | Webhook bridge source + PineScript examples + install guide |
+| **AI-Trader Complete Bundle** | **$97** | Both products + EA full source + strategy templates + priority Discord support |
+
+**Payment: USDT (TRC20)**
+
+Scan to pay:
+
+![USDT QR1](assets/payments/收款1.jpg) | ![USDT QR2](assets/payments/收款2.jpg) | ![USDT QR3](assets/payments/收款3.jpg)
+
+After payment, email your transaction hash to get the download link, or open a GitHub issue with your payment proof.
+
 ## License
 
-MIT
+MIT for open-source usage. Commercial use / redistribution requires a license purchase.
